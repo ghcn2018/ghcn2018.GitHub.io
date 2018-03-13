@@ -1,6 +1,6 @@
-#Hux Blog
+#Fengye's Blog
 
-###[View Live Hux Blog &rarr;](https://huangxuan.me)
+###[View Live Hux Blog &rarr;](http://cnepq.com)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
