@@ -13,13 +13,14 @@ tags:
     - english web sites
 ---
 
-# 最常用的收藏夹记录
+
+## 常用网站收藏
 
 20180311
 
 这是本人在网络上最常访问的网址记录，为什么会有这篇文章，因为我发现最常访问的网址数目不太多，不会经常变动，而且没有找到更好更省事的方式收藏这些很好的网站。
 
-## 一、综合新闻咨询类
+### 一、综合新闻咨询类
 
 1. [新浪](http://www.sina.com)
 2. [百度](http://www.baidu.com)
@@ -36,7 +37,7 @@ tags:
 13. [AOL](https://www.aol.com/)
 
 
-## 二、知识类
+### 二、知识类
 
 1. [维基百科](https://www.wikipedia.org/)
 2. [coursera](https://www.coursera.org/)
@@ -70,27 +71,25 @@ tags:
 
 > **不要把收藏当学习，不要把知识当能力，不要把经验当真理。也以此警示自己。**
 
-## 三、IT类
+### 三、IT类
 
 1. [Stack Overflow](https://stackoverflow.com/)
 2. [github](https://github.com/)
 
-
-
-## 四、社交类
+### 四、社交类
 
 1. [微信](https://weixin.qq.com/)
 2. [领英](https://www.linkedin.com/)
 3. [facebook](https://www.facebook.com/)
 4. [Twitter](www.twitter.com)
 
-## 五、视频类
+### 五、视频类
 
 1. [Youtube](https://www.youtube.com/)
 2. [Vimeo](http://vimeo.com)
 3. [优酷youku](http://www.youku.com/)
 
-## 六、资源工具类
+### 六、资源工具类
 
 1. [pexels](https://www.pexels.com/)
 2. [canva](https://www.canva.com/)
